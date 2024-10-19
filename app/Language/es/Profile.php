@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'update_successful' => 'Se ha actualizado los datos exitosamente',
+    'invalid_current_password' => 'Contraseña actual inválida',
+    'password_update_successful' => 'Se ha actualizado la contraseña exitosamente',
+    'invalid_password' => 'Contraseña inválida',
+    'title_edit' => 'Editar perfil',
+    'enter_password' => 'Por favor, ingrese su contraseña para continuar',
+    'password' => 'Contraseña',
+    'send' => 'Enviar',
+    'cancel' => 'Cancelar',
+    'title_edit_password' => 'Editar contraseña',
+    'current_password' => 'Contraseña actual',
+    'new_password' => 'Contraseña nueva',
+    'repeat_new_password' => 'Por favor, repetir la contraseña nueva',
+    'save' => 'Guardar',
+    'name' => 'Nombre',
+    'email' => 'Correo electrónico',
+    'title' => 'Perfil',
+    'profile_image' => 'imagen del perfil',
+    'delete_profile_image' => 'Borrar la imagen del perfil',
+    'edit' => 'Editar',
+    'change_password' => 'Cambiar la contraseña',
+    'change_profile_image' => 'Cambiar el imagen de perfil',
+];
